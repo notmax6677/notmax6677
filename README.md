@@ -10,6 +10,7 @@ sometimes i make games
 
 sometimes i make websites
 
+`notmax6677.js`
 ```js
 // meee
 export default notmax6677 = {
