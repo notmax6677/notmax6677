@@ -19,7 +19,7 @@ export default notmax6677 = {
     "Canada 🇨🇦"
   ],
 
-  MySkills: {
+  skills: {
     // programming languages that im somewhat proficient in (c & c++ are still a bit iffy lol)
     languages: [
       "HTML",
