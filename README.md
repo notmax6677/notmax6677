@@ -56,3 +56,5 @@ export default notmax6677 = {
 ```
 
 ![](https://raw.githubusercontent.com/notmax6677/github-stats/master/generated/overview.svg)
+
+![](https://github.com/notmax6677/github-stats/edit/master/generated/languages.svg)
