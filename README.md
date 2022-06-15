@@ -1,6 +1,6 @@
 ### notmax6677
 
-hey, im notmax6677
+hey, im max
 
 as of the creation of this README i am 14
 
