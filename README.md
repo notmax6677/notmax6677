@@ -50,7 +50,7 @@ export default notmax6677 = {
 
       "Love2D",
 
-      "Godot Game Engine"
+      "Godot Engine"
     ]
   }
 }
