@@ -30,7 +30,7 @@
 
 ## languages, software 'n tools
 <div id="software">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width=40>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/512px-Bash_Logo_black_and_white_icon_only.svg.png?20180723054438" alt="bash" width=40>
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="Csharp" width=40>
   
