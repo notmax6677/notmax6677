@@ -14,30 +14,23 @@ sometimes i make websites
 ```js
 // meee
 export default notmax6677 = {
-  // where i'm from
   nationality: [
     "Ukraine 🇺🇦",
     "Canada 🇨🇦"
   ],
 
   skills: {
-    // programming languages that im somewhat proficient in (c & c++ are still a bit iffy lol)
+    // programming languages
     languages: [
-      "HTML",
-
-      "CSS",
-
       "JS",
 
       "Python",
 
-      "C",
-
-      "Cpp",
-
       "C#",
 
       "Golang",
+      
+      "Lua",
 
       "Shell",
     ],
