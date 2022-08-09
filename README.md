@@ -73,3 +73,7 @@
    <!-- languages -->
    <img src="https://raw.githubusercontent.com/notmax6677/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
+
+<br>
+
+[i'm also on the top 1500 ranking on CSSBattle lol](https://cssbattle.dev/player/m6677)
