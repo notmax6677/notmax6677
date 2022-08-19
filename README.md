@@ -76,4 +76,4 @@
 
 <br>
 
-[i'm also on the top 1500 ranking on CSSBattle lol](https://cssbattle.dev/player/m6677)
+[BTW IM TOP 1000 ON CSSBATTLE](https://cssbattle.dev/player/m6677)
