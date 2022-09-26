@@ -28,6 +28,8 @@
 - i also like philosophy
 - i usually make web-related projects, but here and there i do also mess with other stuff, i've made a lot of (uncompleted, and probably will be forever) games
 
+Current official web developer for [Rolling Rhino Remix](https://rollingrhino.org/).
+
 ## languages, software 'n tools
 <div id="software">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/512px-Bash_Logo_black_and_white_icon_only.svg.png?20180723054438" alt="bash" width=40>
