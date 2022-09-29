@@ -79,3 +79,7 @@ Current official web developer for [Rolling Rhino Remix](https://rollingrhino.or
 <br>
 
 [BTW IM TOP 1000 ON CSSBATTLE](https://cssbattle.dev/player/m6677)
+
+<br>
+
+[Also check out my personal website, you'll find that it's a bit more formal than this README lol](https://notmax6677.github.io/)
