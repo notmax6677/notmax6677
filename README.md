@@ -21,7 +21,7 @@
 </div>
 
 ## about me
-- i'm 14
+- i'm 15
 - i'm from Ukraine and Canada, i mean i'm ethnically Ukrainian but i have a Canadian residence & passport. i was also born in China lol, so do with that what you will
 - i play tons of different games and find a new one like almost every week so i won't even bother listing them, but feel free to ask me
 - i like quite a few different fields of science, namely marine biology, astronomy, and psychology
