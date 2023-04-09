@@ -28,7 +28,7 @@
 - i also like philosophy
 - i usually make web-related projects, but here and there i do also mess with other stuff, i've made a lot of (uncompleted, and probably will be forever) games
 
-Current official web developer for [Rolling Rhino Remix](https://rollingrhino.org/).
+Ex official web developer for the now deprecated [Rolling Rhino Remix](https://rollingrhino.org/).
 
 ## languages, software 'n tools
 <div id="software">
