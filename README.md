@@ -21,7 +21,7 @@
   <h1>hello</h1>
 </div>
 
-Ex official web developer for the now discontinued [Rolling Rhino Remix](https://rollingrhino.org/)
+Ex official developer for the now discontinued [Rolling Rhino Remix](https://rollingrhino.org) website
 
 Many interests, look at my stuff
 
@@ -75,4 +75,4 @@ I'd very much prefer to be contacted via email
 
 <br>
 
-[Also check out my personal website, you'll find that it's a bit more formal than this README lol](https://notmax6677.github.io/)
+[Also check out my personal web page, you'll find that it's a bit more formal than this README lol](https://notmax6677.github.io/)
