@@ -18,7 +18,11 @@
   <h1>hello</h1>
 </div>
 
-Ex official web developer for the now discontinued [Rolling Rhino Remix](https://rollingrhino.org/).
+Ex official web developer for the now discontinued [Rolling Rhino Remix](https://rollingrhino.org/)
+
+Many interests, look at my stuff
+
+I'd very much prefer to be contacted via email
 
 ## languages, software 'n tools
 <div id="software">
