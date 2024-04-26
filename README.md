@@ -7,8 +7,6 @@
   
   <!-- badges -->
   <div id="badges">
-    <!-- reddit account -->
-    <img src="https://img.shields.io/badge/anasthese07-f64300?logo=reddit&logoColor=ffffff&style=for-the-badge">
     <!-- discord account -->
     <img src="https://img.shields.io/badge/-~/.%233625-7085d6?logo=discord&logoColor=ffffff&style=for-the-badge">
   </div>
