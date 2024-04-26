@@ -7,6 +7,9 @@
   
   <!-- badges -->
   <div id="badges">
+    <!-- email account -->
+    <img src="https://img.shields.io/badge/-max.meln1210@gmail.com-ff0000?logo=gmail&logoColor=ffffff&style=for-the-badge">
+    <br>
     <!-- discord account -->
     <img src="https://img.shields.io/badge/-~/.%233625-7085d6?logo=discord&logoColor=ffffff&style=for-the-badge">
   </div>
