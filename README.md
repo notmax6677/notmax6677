@@ -58,7 +58,7 @@ I'd very much prefer to be contacted via email
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flutris.net%2Fmedia%2Fgames%2Ficons%2Flove-app-0.10.png&f=1&nofb=1" alt="love2D" width=40>
    <img src="https://external-content.duckduckgo.com/ip3/www.raylib.com.ico" alt="raylib" width=40>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" alt="vueJS" width=40>
-   <img src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="solidJS" width=40>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/solidjs/solidjs-original.svg" alt="solidJS" width=40>
 </div>
 
 ## my stats
