@@ -71,7 +71,7 @@ I'd very much prefer to be contacted via email
 
 <br>
 
-[BTW IM TOP 1000 ON CSSBATTLE](https://cssbattle.dev/player/m6677)
+[CSSBattle Profile](https://cssbattle.dev/player/m6677)
 
 <br>
 
